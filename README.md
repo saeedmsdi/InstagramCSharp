@@ -1,6 +1,4 @@
-InstagramCSharp
+InstagramCSharp Core
 ===============
 
-InstagramCSharp is a light wrapper around the Instagram API.
-
-[Demo](http://jsfiddle.net/ysinjab/K4jLy/19/)
+InstagramCSharp is a light wrapper around the Instagram API for .Net Core.
